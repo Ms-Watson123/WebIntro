@@ -1,0 +1,13 @@
+       h1{
+            color:deepskyblue;
+        }
+            h2{
+                color:deeppink;
+                text-decoration: overline;
+            }
+            h1, h2, h3, h4, h5, h6{
+font-family:'Frankilin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            }
+            p{
+                font-family: 'Courier New', Courier, monospace;
+            }
